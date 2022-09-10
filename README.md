@@ -3,6 +3,8 @@
                                                                                                                                                               - 🌱 I’m currently learning AI
                                                                                                                                                               - 💞️ I’m looking to collaborate on AI and Software Developement 
                                                                                                                                                               - 📫 How to reach me : sycheikh1213@gmail.com
+                                                                                                                                                              
+                                                                                                                                                              
 
 ![Code typing-2](https://user-images.githubusercontent.com/81166169/189495803-9c07a044-a177-4b44-85af-c03ecc89b529.gif)
 
