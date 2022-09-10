@@ -2,11 +2,6 @@
 
 ![Code typing](https://user-images.githubusercontent.com/81166169/189495543-e3588665-9cfe-445a-93d3-4a06756e4937.gif)
 
-
-
-
-
-
                                                                                                                                                               - 👋 Hi, I’m @Sy-Cheikh 
                                                                                                                                                               - 👀 I’m interested in Computer Sciences
                                                                                                                                                               - 🌱 I’m currently learning AI
